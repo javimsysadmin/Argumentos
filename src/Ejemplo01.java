@@ -4,6 +4,7 @@ public class Ejemplo01 {
             System.out.println("EL SEGUNDO argumento ES DE  " + args[0]);
             System.out.println("EL TERCER argumento ES DE  " + args[0]);
             System.out.println("EL CUARTO argumento ES DE  " + args[0]);
+            System.out.println("EL CUARTO argumento ES DE  " + args[0]);
 
         }
 }
